@@ -1,0 +1,7 @@
+langchain
+python-dotenv==1.0.0
+streamlit
+langchain_openai
+langchain_community
+plotly
+sqlalchemy
