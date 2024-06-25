@@ -1,6 +1,6 @@
-# Visual_SQL
+# Chat_SQL
 Application that takes a query in natural language and returns answers or visualizations from an SQL Database.
 
-replace 
+use the code
 db = SQLDatabase.from_uri("sqlite:///chinook.db")
-with your own database.
+with your own database if you are using a sqlite db.
